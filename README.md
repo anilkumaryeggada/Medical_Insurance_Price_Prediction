@@ -31,13 +31,6 @@ Prerequisites
         seaborn
         scikit-learn
 
-Steps to Run the Project
-
-    Clone the Repository
-
-git clone https://github.com/username/medical-insurance-prediction.git
-cd medical-insurance-prediction
-
 Install Dependencies
 
 pip install -r requirements.txt
