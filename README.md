@@ -90,3 +90,8 @@ Contributors
 License
 
 This project is licensed under the MIT License.
+
+output 
+
+
+![Capture6](https://github.com/user-attachments/assets/3e29f4a4-e914-48a9-b74a-610febbbabc8)
